@@ -179,7 +179,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
  **Ducrée** J. et al. (2022). [DeSci-Decentralized Science](https://www.preprints.org/manuscript/202205.0223/v1). Preprints 2022, 2022050223 (doi: 10.20944/preprints202205.0223.v1).
  
- **Ding** W. et al. (2022). [DeSci based on Web3 and DAO: A comprehensive overview and reference model](https://ieeexplore.ieee.org/abstract/document/9906878) IEEE Transactions on Computational Social Systems, 9(5), 1563-1573, doi:10.1109/TCSS.2022.3204745.
+ **Ding** W. et al. (2022). [DeSci based on Web3 and DAO: A comprehensive overview and reference model](https://ieeexplore.ieee.org/abstract/document/9906878) IEEE Transactions on Computational Social Systems, 9(5), 1563-1573, doi: 10.1109/TCSS.2022.3204745
+
 ---
   
 ### Articles
